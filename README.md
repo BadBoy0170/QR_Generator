@@ -1,6 +1,6 @@
 # QR Code Generator 
 
-My github : https://github.com/Nishantsurve
+My github : https://github.com/BadBoy0170
 
 ## Demo
 ![image1](https://github.com/Nishantsurve/Web-Development-Projects/assets/104264099/a90d2bd0-d7f8-4d0c-a470-19a5549e19b5)
@@ -11,7 +11,7 @@ My github : https://github.com/Nishantsurve
 
 ## Deployment 
 netlify app
-link : https://nishants-qr-generator.netlify.app/
+link : https://bd17-qr-generator.netlify.app/
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ link : https://nishants-qr-generator.netlify.app/
 1. Clone the repository or download the ZIP file.
 
 ```bash
-git clone https://github.com/Prodigy-InfoTech/Web-Development-Projects.git
+git clone https://github.com/BadBoy0170/Basic-QR-Generator.git
 ```
 
 2. Open the project folder.
