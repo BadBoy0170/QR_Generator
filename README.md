@@ -2,11 +2,9 @@
 
 A powerful, feature-rich QR code generator built with React and TypeScript. Generate customizable QR codes for various purposes including URLs, text, email, contact information, events, SMS, and WiFi configurations.
 
-![QR Code Generator](https://images.unsplash.com/photo-1595079676339-1534801ad6cf?auto=format&fit=crop&q=80&w=2000)
-
 ## Features
 
-- 🎨 **Multiple QR Code Types**
+- **Multiple QR Code Types**
   - URL
   - Text/Custom Message
   - Email
@@ -15,18 +13,18 @@ A powerful, feature-rich QR code generator built with React and TypeScript. Gene
   - SMS
   - WiFi Configuration
 
-- ✨ **Rich Customization Options**
+- **Rich Customization Options**
   - Adjustable size
   - Custom colors (foreground and background)
   - Error correction levels
   - Margin control
 
-- 📱 **Export Options**
+- **Export Options**
   - Download as PNG
   - Print directly
   - Share via native share dialog
 
-- 🎯 **User-Friendly Interface**
+- **User-Friendly Interface**
   - Real-time preview
   - Responsive design
   - Intuitive controls
